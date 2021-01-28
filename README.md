@@ -1,2 +1,2 @@
-# RouuterHack
-Hacking rhis programming
+# RouterHack
+Hacking this programming
